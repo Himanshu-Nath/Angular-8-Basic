@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Same day",
+    "price": 100
+  },
+  {
+    "type": "2-Day",
+    "price": 50
+  },
+  {
+    "type": "3-Day",
+    "price": 25
+  },
+  {
+    "type": "As per dealer",
+    "price": 0
+  }
+]
